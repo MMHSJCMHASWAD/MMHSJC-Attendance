@@ -1,7 +1,7 @@
 {
-  "name": "MMHSJC Attendance",
-  "short_name": "Attendance",
-  "description": "MMHSJC Monthly Attendance Register",
+  "name": "MMHSJC Attendance Calculator",
+  "short_name": "MMHSJC Attendance",
+  "description": "MMHSJC Monthly Attendance Calculator",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
